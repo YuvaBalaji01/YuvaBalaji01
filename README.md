@@ -2,7 +2,7 @@
 <h2 aling="center">A fervid Web developer and Competitive Programmer 🧑‍💻 Pre-final year IIIT Bhopal🤖 <h2>
 <p align="center">Aspiring Software Developer & Tech Enthusiast 🚀</p>
 
-<img src="image.jpeg" width="300" align="right" />
+<img src="images.jpeg" width="300" align="right" />
 
 
 
