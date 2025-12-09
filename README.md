@@ -40,7 +40,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/yuva-balaji-kumar-yarapathineni-a1b2c3" target="_blank">
+  <a href="https://www.linkedin.com/in/yuva-balaji-kumar-yarapathineni-a1b2c3/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
   </a>
 
