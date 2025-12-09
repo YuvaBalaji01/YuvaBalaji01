@@ -1,6 +1,7 @@
 <h1 align="center">Hello!! YuvaBalaji Here 👋</h1>
 <h2 aling="center">A fervid Web developer and Competitive Programmer 🧑‍💻 Pre-final year IIIT Bhopal🤖 </h2>
 
+<div>
 <img src="images.jpeg" width="300" align="right" />
 
 
@@ -11,6 +12,10 @@
   <li>💬 Ask me about **Frontend, C++</li>
   <li>📫 Reach me at **yuvabalajikumar@gmail.com**</li>
 </ul>
+
+</div>
+
+<br><br>
 
 
 <h3 align="center">Languages and Tools:</h3>
