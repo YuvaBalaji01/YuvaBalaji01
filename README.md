@@ -42,7 +42,7 @@
   
 
 <a href="https://www.naukri.com/code360/profile/6802531e-fdde-4e48-a8d7-d745419a29e4" target="_blank">
-  <img src="image.jpeg" height="40" width="40" />
+  <img src="image.png" height="40" width="40" />
 </a>
 
 
