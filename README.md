@@ -14,7 +14,7 @@
 - 🎓 **Education:** Pre-final year Student at **IIIT Bhopal**
 - 📚 **Currently Learning:** Advanced MERN Stack & System Design
 - 💡 **Interests:** Solving complex algorithmic problems and building scalable web apps
-- 🤝 **Collaboration:** Open to Open Source projects and Web Dev internships
+- 🤝 **Collaboration:** Open to Open Source projects and SDE internships
 - 📧 **Contact:** [yuvabalajikumar@gmail.com](mailto:yuvabalajikumar@gmail.com)
 
 ---
