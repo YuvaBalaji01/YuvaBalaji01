@@ -1,74 +1,67 @@
-<h1 align="center">Hello!! YuvaBalaji Here 👋</h1>
-<h2 aling="center">A fervid Web developer and Competitive Programmer 🧑‍💻 Pre-final year IIIT Bhopal🤖 </h2>
-
-<div>
-<img src="images.jpeg" width="300" align="right" />
-
-
-
-<ul>
-  <li>🐾 I’m currently learning Full Stack development and Data Structures and Algorithm</li>
-  <li>🤝 I’m looking to collaborate on Web development projects</li>
-  <li>💬 Ask me about | Frontend,Backend, C++</li>
-  <li>📫 Reach me at **yuvabalajikumar@gmail.com**</li>
-</ul>
-
-</div>
-
-<br><br>
-
-
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm Yuva Balaji</h1>
+<h3 align="center">Fervid Web Developer & Competitive Programmer from IIIT Bhopal</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-
-  <!-- Backend / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb atlas" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/>
-
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-       alt="aws" width="60" height="50"/>
-</p>
-
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuva-balaji-kumar-yarapathineni-a1b2c3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-  </a>
-
-  
-
-<a href="https://www.naukri.com/code360/profile/6802531e-fdde-4e48-a8d7-d745419a29e4" target="_blank">
-  <img src="image.png" height="40" width="40" />
-</a>
-
-
-
-
-  <a href="https://leetcode.com/u/YuvaBalaji/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer;C%2B%2B+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 
 
+---
+
+### 🚀 About Me
+
+- 🎓 **Education:** Pre-final year Student at **IIIT Bhopal**
+- 📚 **Currently Learning:** Advanced MERN Stack & System Design
+- 💡 **Interests:** Solving complex algorithmic problems and building scalable web apps
+- 🤝 **Collaboration:** Open to Open Source projects and Web Dev internships
+- 📧 **Contact:** [yuvabalajikumar@gmail.com](mailto:yuvabalajikumar@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      Languages<br><br>
+      <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
+    </td>
+    <td align="center" width="300">
+      Frontend<br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      Backend & DB<br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    </td>
+    <td align="center" width="300">
+      Tools & Cloud<br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,aws" />
+    </td>
+  </tr>
+</table>
+
+---
 
 
 
+### 🔗 Connect with Me
 
- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuva-balaji-kumar-yarapathineni-a1b2c3/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/YuvaBalaji/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:yuvabalajikumar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YuvaBalaji&label=Profile%20views&color=0e75b6&style=flat" alt="YuvaBalaji" /> 
+</p>
