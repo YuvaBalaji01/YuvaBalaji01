@@ -24,7 +24,7 @@
   <tr>
     <td align="center" width="300">
       Languages<br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
+      <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
     </td>
     <td align="center" width="300">
       Frontend<br><br>
