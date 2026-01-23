@@ -34,7 +34,7 @@
   <tr>
     <td align="center" width="300">
       Backend & DB<br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
     </td>
     <td align="center" width="300">
       Tools & Cloud<br><br>
