@@ -16,7 +16,7 @@
 - 🤝 **Collaboration:** Open to Open Source projects and SDE internships
 - 📧 **Contact:** [yuvabalajikumar@gmail.com](mailto:yuvabalajikumar@gmail.com)
 
----
+----
 
 ### 🛠️ Tech Stack
 
