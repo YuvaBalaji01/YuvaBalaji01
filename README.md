@@ -36,13 +36,12 @@
       Backend & DB<br><br>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
     </td>
-   <td align="center" width="300">
-  Tools & Cloud<br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker" />
-</td>
+    <td align="center" width="300">
+      Tools & Cloud<br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,anaconda,tensorflow,jupyter" />
+    </td>
   </tr>
 </table>
-
 ---
 
 
