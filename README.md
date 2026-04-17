@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuva Balaji </h1>
+<h1 align="center">Hi 👋, I'm Yuva Balaji Kumar </h1>
 <h3 align="center">Fervid Web Developer & Competitive Programmer from IIIT Bhopal</h3>
 
 <p align="center">
