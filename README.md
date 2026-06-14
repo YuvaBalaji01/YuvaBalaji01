@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuva Balaji </h1>
-<h3 align="center">Fervid Web Developer & Competitive Programmer from IIIT Bhopal</h3>
+<h3 align="center">Fervid Web Developer & Competitive Programmer from IIIT Bhopal Batch 2027</h3>
 
 <p align="center">
   
