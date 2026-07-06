@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Pre-final year Student at **IIIT Bhopal**
+- 🎓 **Education:** Final year Student at **IIIT Bhopal**
 - 📚 **Currently Learning:** Advanced MERN Stack & System Design
 - 💡 **Interests:** Solving complex algorithmic problems and building scalable web apps
 - 🤝 **Collaboration:** Open to Open Source projects and SDE internships
